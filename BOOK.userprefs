@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script 1\CameraControl.cs">
+    <Files>
+      <File FileName="Assets\Script 1\GameStart.cs" Line="24" Column="23" />
+      <File FileName="Assets\Script 1\NewApple.cs" Line="48" Column="29" />
+      <File FileName="Assets\Script 1\CameraControl.cs" Line="124" Column="9" />
+      <File FileName="Assets\Script 1\moonmoon.cs" Line="9" Column="25" />
+      <File FileName="Assets\Script 1\EatAppleGo.cs" Line="15" Column="132" />
+      <File FileName="Assets\Script 1\HunterGO.cs" Line="15" Column="128" />
+      <File FileName="Assets\Script 1\Warning.cs" Line="40" Column="3" />
+      <File FileName="Assets\Script 1\warningGoGO.cs" Line="18" Column="4" />
+      <File FileName="Assets\Script 1\Fight.cs" Line="39" Column="28" />
+      <File FileName="Assets\Script 1\HitMoonMoon.cs" Line="17" Column="44" />
+      <File FileName="Assets\Script 1\HitWolf.cs" Line="17" Column="42" />
+      <File FileName="Assets\Script 1\RHFather.cs" Line="23" Column="20" />
+      <File FileName="Assets\Script 1\goToEnd.cs" Line="17" Column="27" />
+      <File FileName="Assets\Script 1\AniControl.cs" Line="18" Column="3" />
+      <File FileName="Assets\Script 1\final.cs" Line="15" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
